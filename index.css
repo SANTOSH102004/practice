@@ -1,0 +1,21 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #1339a8;
+  }
+  
+  h1 {
+    color: #e70303;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.6;
+    text-align: center;
+    max-width: 600px;
+    margin: 20px auto;
+  }
